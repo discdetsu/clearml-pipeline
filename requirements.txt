@@ -1,0 +1,6 @@
+clearml
+numpy
+matplotlib
+scikit-learn
+pandas
+pillow
